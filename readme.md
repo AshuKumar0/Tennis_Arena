@@ -293,7 +293,7 @@ Potential improvements include:
 
 ## 👨‍💻 Author
 
-**Ashu Kumar**
+**Ankur Savita(ashu)**
 
 GitHub: [AshuKumar0](https://github.com/AshuKumar0)
 
