@@ -266,8 +266,18 @@ export default function App() {
         </div>
       )}
 
-      {/* Match Over Modal */}
+            {/* Match Over Modal */}
       <MatchOverModal gameState={gameState} onNewMatch={handleReset} />
+
+      {/* Footer */}
+      <footer style={{
+        textAlign: 'center',
+        padding: '1.5rem 0 1rem',
+        color: 'var(--text-muted)',
+        fontSize: '0.8rem',
+      }}>
+        Made with ❤️ by Ankur
+      </footer>
     </div>
   );
 }
